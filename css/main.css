@@ -1,0 +1,77 @@
+
+body{
+	background: #7a619b; /* Old browsers */
+	background: -moz-linear-gradient(top,  #7a619b 1%, #533a8e 24%, #300454 50%, #533a8e 79%, #7a619b 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(1%,#7a619b), color-stop(24%,#533a8e), color-stop(50%,#300454), color-stop(79%,#533a8e), color-stop(100%,#7a619b)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #7a619b 1%,#533a8e 24%,#300454 50%,#533a8e 79%,#7a619b 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #7a619b 1%,#533a8e 24%,#300454 50%,#533a8e 79%,#7a619b 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #7a619b 1%,#533a8e 24%,#300454 50%,#533a8e 79%,#7a619b 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #7a619b 1%,#533a8e 24%,#300454 50%,#533a8e 79%,#7a619b 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7a619b', endColorstr='#7a619b',GradientType=0 ); /* IE6-9 */
+	background-repeat:repeat-x;
+	font-family: "Lucida Sans Unicode", avant garde, arial;
+}
+
+#wrapper{
+	background: #b9b2ea; /* Old browsers */
+	background: -moz-linear-gradient(top,  #b9b2ea 0%, #ebe0fc 50%, #b9b2ea 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#b9b2ea), color-stop(50%,#ebe0fc), color-stop(100%,#b9b2ea)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #b9b2ea 0%,#ebe0fc 50%,#b9b2ea 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #b9b2ea 0%,#ebe0fc 50%,#b9b2ea 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #b9b2ea 0%,#ebe0fc 50%,#b9b2ea 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #b9b2ea 0%,#ebe0fc 50%,#b9b2ea 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b9b2ea', endColorstr='#b9b2ea',GradientType=0 ); /* IE6-9 */
+	max-width: 900px;
+	margin: 0 auto;
+	border-radius: 5px;
+	box-shadow: 1px 1px 6px #000;
+	-webkit-box-shadow:  1px 1px 10px #000;
+}
+
+.info{
+	background: #F9F9F9;
+	color: #000;
+	font-size: 0.9em;
+	padding: 0.6em;
+	border-radius: 0.8em;
+}
+
+ul.info{
+	list-style-type: none;
+	margin-bottom: 2em;
+}
+
+ul.info span{
+	font-weight: bold;
+}
+
+h1, h2, h3{
+	font-family: "Lucida Sans Unicode", avant garde, arial;
+}
+
+h1{
+	max-width: 100%;
+	color: #fff;
+	text-shadow: 2px 2px 2px #000;
+	padding-left: 38%;
+	margin; 1em 1em;
+	text-decoration: underline;
+}
+
+h2{
+	padding: 0 0.5em;
+	box-shadow: 2px 2px 6px #000;
+	font-size: 1.5em;
+	color: #fff;
+	text-shadow: 2px 2px 2px #000;
+	/*max-width: 250px;*/
+}
+
+article {
+	padding: 1em;
+}
+
+p{
+	font-family: "Lucida Sans Unicode", avant garde, arial;
+	font-size: 1em;
+}
